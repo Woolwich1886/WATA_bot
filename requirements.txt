@@ -9,7 +9,7 @@ chardet==3.0.4
 cryptography==2.7
 cycler==0.10.0
 decorator==4.4.0
-Django==2.2.2
+Django==2.2.13
 future==0.17.1
 idna==2.7
 image==1.5.27
